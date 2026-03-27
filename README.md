@@ -16,6 +16,6 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,go,dart,flutter,mysql,dynamodb,firebase,docker,kubernetes,aws,gcp,githubactions,vim,neovim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=linux,go,mysql,docker,kubernetes,aws,vim,neovim&perline=8" />
   </a>
 </p>
